@@ -1,0 +1,8 @@
+-r requirements/runtime.txt
+-r requirements/tests.txt
+tqdm
+ftfy
+pillow
+regex
+einops
+pandas
